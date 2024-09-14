@@ -1,0 +1,42 @@
+.card{
+    height:600px;
+    width:500px;
+    border: 2px solid red;
+    border-radius: 25px;
+    margin: auto;
+    background-image: url(teddy.jpg);
+    background-size: cover;
+    margin-top:35px
+}
+.card-header{
+     text-align: center;
+     margin-top: 25px;
+} 
+.card-body{
+    width:400px;
+    height:400px;
+    margin: auto;
+    margin-top:25px
+}
+.lable{
+ margin-top: 25px;
+ }
+ .input{
+    width: 383px;
+    height: 25px;
+    border-radius: 25px;
+ }
+.password{
+    margin-top: 25px;
+}
+.butt{
+    width: 109px;
+    height: 28px;
+    border-radius: 25px;
+    margin-top:30px;
+    margin-left: 278px;
+    background-color: rgb(189, 159, 218);
+}
+.para{
+    margin-top: 65px;
+}
